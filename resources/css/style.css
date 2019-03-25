@@ -1,0 +1,42 @@
+body{
+  font-family: Helvetica, sans-serif, garamond;
+  text-align: center;
+  background-color: white;
+  color:black;
+
+}
+
+#main--box{
+  background-image: url(../images/the-flatiron-building.png);
+
+}
+
+.header--main, h1{
+  font-size: 70px;
+  font-weight: bold;
+
+}
+
+.links {
+  color: white;
+}
+
+#h2--process{
+
+  font-size: 32px;
+  font-weight:bold;
+}
+
+.subheading{
+  font-size: 23px;
+  font-weight: bold;
+
+  }
+
+
+  #h2--new-york{
+    background-image: url(../images/the-flatiron-building.png);
+    font-size: 23px;
+    color: white;
+
+}
