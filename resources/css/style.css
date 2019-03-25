@@ -19,6 +19,8 @@ body{
 
 .links {
   color: white;
+  font-size: 18px;
+
 }
 
 #h2--process{
@@ -27,10 +29,30 @@ body{
   font-weight:bold;
 }
 
+#work{
+
+}
+
+#team{
+
+
+}
+
+#contact{
+
+
+}
 .subheading{
   font-size: 23px;
   font-weight: bold;
 
+  }
+
+  #footer{
+    background-color: dimgray;
+    font-size: 11px;
+    color:white;
+    text-align: left;
   }
 
 
